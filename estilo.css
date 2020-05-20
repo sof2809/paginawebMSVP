@@ -1,0 +1,121 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	text-align:center;
+	margin:auto;
+}
+body{
+	background-color:#C5FFF8;
+}
+#contenedor{
+	width:1100px;
+	height:1100px;
+	font-family:Kanit;
+	margin:auto;
+}
+h1,h2,h3{
+	font-family:Kanit;
+	font-size:40px;
+	padding:10px;
+	border:1px solid black;
+	text-shadow:1.5px 2px 5px #000;
+	border-radius:20px;
+	background:#ECFEB2;
+}
+h1,h2{
+	text-align:center;
+}
+#tablas{
+	text-align:center;
+	font-size:30px;
+	color:black;
+}
+p{
+	color:black;
+	font-size:25px;
+	text-align:justify;
+	padding:15px;
+	border:1px solid black;
+	box-shadow:1.5px 2px 5px #000;
+	border-radius:30px;
+	background:#FFA9A8;
+}
+.peste-justiniano{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#95FFB2;
+}
+.peste-negra{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;	
+	background:#95FFB2;
+}
+.viruela{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#95FFB2;
+}
+.gripe-española{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#95FFB2;
+}
+.gripe-asiatica{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#95FFB2;
+}
+.VIH{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#95FFB2;
+}
+.materia{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#FF95DD;	
+}
+.alumno{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#FF95DD;	
+}
+.escuela{
+	padding:10px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#FF95DD;	
+}
+a{
+	font-size:30px;
+	color:#FF2A00;
+}
+table{
+	background-color:lightblue;
+	color:black;
+
+}
+img{
+	float:left;
+}
+.escuela:hover{
+	background:#000;
+	color:white;
+}
+.alumno:hover{
+	background:#000;
+	color:white;
+}
+.materia:hover{
+	background:#000;
+	color:white;
+}
